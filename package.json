@@ -1,0 +1,18 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "A movies API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Express",
+    "Sequelize",
+    "PostgreSQL"
+  ],
+  "author": "Vincent Ramdhanie",
+  "license": "MIT"
+}
